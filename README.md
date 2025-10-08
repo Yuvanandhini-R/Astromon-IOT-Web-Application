@@ -114,11 +114,13 @@ This project is configured for Firebase hosting.
     ```bash
     firebase deploy
     ```
-
 ---
 
-## Live Application Access
+## 📝 Documentation and Access
 
-[Astromon IoT Web Application Sign-In](https://astromon-iot.web.app/auth/signin)
+| Item | Link |
+| :--- | :--- |
+| **Live Astromon IoT Web Application link** | [Astromon IoT Web App](https://astromon-iot.web.app/auth/signin) |
+| **Technical Document (PDF)** | [Official Project Document](doc/astromon.pdf) |
 
 ---
